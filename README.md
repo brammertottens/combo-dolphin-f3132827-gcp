@@ -105,3 +105,6 @@ The community welcomes everyone to contribute, please refer to this page to find
 ## License
 
 Please refer to the [LICENSE](https://github.com/apache/dolphinscheduler/blob/dev/LICENSE) file.
+
+## Infrastructure as Code
+Deployment infrastructure is defined as code in the iac/ directory.
